@@ -1,7 +1,7 @@
 # HTML
 - task: CmdLine@2
   inputs:
-    script: '- script: python -mhtmllib 180030996.html'
+  script: '- script: python -mhtmllib 180030996.html'
 # Archive your static HTML project and save it with the build record.
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
